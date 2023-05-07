@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+margin: 0;
+padding: o;
+font-family: 'Open Sans', sans-serif;
+}
+.container {
+    margin: auto;
+}
+table {
+    width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+    border: solid;
+    margin-top: 50px;
+    border-collapse: collapse;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+td, th {
+    border: solid;
+    text-align: left;
+    padding: 10px;
+}
+th {
+    background-color: rgb(98, 174, 98);
+    color: aliceblue;
+    border: solid
+    rgb(98, 174, 98);
+}
+p {
+    color: green;
+}
+td {
+    border-color: white;
+}
+hr {
+    margin: auto;
+}
